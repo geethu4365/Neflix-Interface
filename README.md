@@ -7,6 +7,7 @@ Welcome to the Netflix Interface project! This project aims to replicate the Net
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 
 ## Introduction
