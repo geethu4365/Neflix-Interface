@@ -6,6 +6,7 @@ Welcome to the Netflix Interface project! This project aims to replicate the Net
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
 ## Introduction
@@ -19,16 +20,21 @@ The Netflix Interface project is a web application designed to mimic the appeara
 - Search functionality
 - Play video trailers
 
-Usage:
+# Usage:
 After starting the development server, you can explore the following features:
 Home Page: View featured movies and TV shows.
 Search: Use the search bar to find specific titles.
 
-Screenshots:
+# Screenshots:
 <img width="921" alt="netflix" src="https://github.com/user-attachments/assets/ee648524-9c05-48c5-82f5-871dfdb62423">
 <img width="909" alt="navbar" src="https://github.com/user-attachments/assets/831b1fb9-6594-4af9-8e97-300cb54ff897">
 
-Technologies Used:
+# Technologies Used:
 html,css
+
+Thank you for visiting the Netflix Interface project! If you have any questions, feel free to open an issue or reach out.
+
+Make sure to customize this template according to your project's specific details and requirements. Add relevant screenshots and update the sections to reflect the actual features and technologies used in your project.
+
 
 
